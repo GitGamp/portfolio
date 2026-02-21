@@ -36,6 +36,6 @@ process design.
 ## Decision Intelligence
 
 ### Causal Decision Modeling
-Applied decision intelligence frameworks to map leverage points and feedback loops driving sales rep resistance to predictive analytics adoption among sales reps.
+Applied decision intelligence frameworks to map leverage points and feedback loops driving sales rep resistance to predictive analytics adoption.
 
 📄 [View Papers](decision-intelligence/)
