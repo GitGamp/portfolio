@@ -29,7 +29,7 @@ uncovering 1,094 process variants and a 35% conformance rate. Applied
 Lean methodology and root cause analysis to deliver a reengineered 
 process design.
 
-📄 [View Papers](business-process-engineering/)
+📄 Currently Updating
 
 ---
 
