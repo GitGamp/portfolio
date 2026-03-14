@@ -24,12 +24,9 @@ are disconnected from measurable performance metrics.
 ## Business Process Engineering
 
 ### Process Mining & Optimization
-Process mining analysis using Celonis on 9,713 cases, 
-uncovering 1,094 process variants and a 35% conformance rate. Applied 
-Lean methodology and root cause analysis to deliver a reengineered 
-process design.
+Process mining and conformance analysis revealed 1,094 process variants with only 35.11% consistency across cases. Given that the proposed improvements introduce process steps not present in the existing event log, variant distribution and conformance rate were used as the primary evidence for process redesign rather than a direct as-is/to-be comparison. The to-be BPMN reflects recommended improvements informed by these findings.
 
-📄 Currently Updating
+📄 [View Work](business-process-engineering/)
 
 ---
 
@@ -38,4 +35,4 @@ process design.
 ### Causal Decision Modeling
 Applied decision intelligence frameworks to map leverage points and feedback loops driving sales rep resistance to predictive analytics adoption.
 
-📄 [View Papers](decision-intelligence/)
+📄 [View Work](decision-intelligence/)
